@@ -11,7 +11,7 @@ FCGI_UMASK = '000' # you can override this in settings_local.py if you wish
 HOST = "0.0.0.0"  ## Listen IP
                   ## 0.0.0.0   is open to everyone,
                   ## 127.0.0.1 is localhost only.
-PORT = 5000
+PORT = 8080
 
 
 try:
